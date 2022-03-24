@@ -1,5 +1,5 @@
 # COVID-19_Tracking
-基于Python+Flask+Echarts的疫情爬虫&amp;数据可视化项目
+基于Python+Flask+Echarts的疫情爬虫&amp;数据可视化项目；与工作项目操作数据库类似
 ***
 ## 步骤
 >* Python网络爬虫
